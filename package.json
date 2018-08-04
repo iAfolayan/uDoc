@@ -1,0 +1,34 @@
+{
+  "name": "udoc",
+  "version": "1.0.0",
+  "description": "Document management System API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iAfolayan/uDoc.git"
+  },
+  "dependencies": {
+    "express":"*",
+    "body-parser": "*",
+    "morgan": "*",
+    "pg-promise": "*",
+    "bluebird": "*",
+    "connect-flash": "*",
+    "express-message": "*"
+  },
+  "keywords": [
+    "Document",
+    "Management",
+    "System",
+    "uDoc"
+  ],
+  "author": "Afolayan Isaiah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iAfolayan/uDoc/issues"
+  },
+  "homepage": "https://github.com/iAfolayan/uDoc#readme"
+}
